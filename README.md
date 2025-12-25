@@ -1,7 +1,7 @@
 # Data Jobs Dashboard (Power BI)
 
 <a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="https://raw.githubusercontent.com/lukebarousse/PowerBI_Data_Analytics_Course/main/Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
+  <img src="images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 </a>
 
 > <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard (Power BI Service)</a>
@@ -28,12 +28,12 @@ You can easily explore **job demand, salaries, locations, and required skills** 
 ## Dashboard Pages
 
 ### Market Overview
-![Page 1](https://raw.githubusercontent.com/lukebarousse/PowerBI_Data_Analytics_Course/main/Resources/images/Project1_Dashboard_Page1.gif)
+![Page 1](images/Project1_Dashboard_Page1.gif)
 
 Quick summary of the job market with key numbers and top roles.
 
 ### Job Details
-![Page 2](https://raw.githubusercontent.com/lukebarousse/PowerBI_Data_Analytics_Course/main/Resources/images/Project1_Dashboard_Page2.gif)
+![Page 2](images/Project1_Dashboard_Page2.gif)
 
 More details for each job title: salary range, remote work, and job locations.
 
